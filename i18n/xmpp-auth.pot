@@ -1,0 +1,424 @@
+# Copyright (C) 2010 XMPP-Auth
+# This file is distributed under the same license as the XMPP-Auth package.
+msgid ""
+msgstr ""
+"Project-Id-Version: XMPP-Auth 0.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/xmpp-auth\n"
+"POT-Creation-Date: 2011-08-22 14:50:16+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: my_socket.php:121
+msgid "Connection initiation failed."
+msgstr ""
+
+#: my_socket.php:131
+msgid "The socket could not be set in non-blocking mode."
+msgstr ""
+
+#: my_socket.php:157
+msgid "Trying to read in a null socket."
+msgstr ""
+
+#: my_socket.php:170
+msgid "Trying to write in a null socket."
+msgstr ""
+
+#: my_socket.php:189
+msgid "Data could not be sent."
+msgstr ""
+
+#: my_socket.php:202
+msgid "Timeout during a data transfer"
+msgstr ""
+
+#: my_socket.php:230
+msgid "Trying to encrypt a null socket."
+msgstr ""
+
+#: my_socket.php:250
+msgid "The socket could not be set in non-blocking mode after encryption."
+msgstr ""
+
+#: my_socket.php:259
+msgid "TLS negotiation failed."
+msgstr ""
+
+#: xmpp_stream.php:157
+msgid "Stanza could not be sent: \n"
+msgstr ""
+
+#: xmpp_stream.php:317
+msgid "Error during connection: "
+msgstr ""
+
+#: xmpp_stream.php:337
+msgid "Stream initiation failure: "
+msgstr ""
+
+#: xmpp_stream.php:356
+msgid "Binding failure: "
+msgstr ""
+
+#: xmpp_stream.php:437
+msgid "Error while reading in the socket."
+msgstr ""
+
+#: xmpp_stream.php:445
+msgid "Timeout of "
+msgstr ""
+
+#: xmpp_stream.php:447
+msgid "seconds."
+msgstr ""
+
+#: xmpp_stream.php:542 xmpp_stream.php:560 xmpp_stream.php:582
+#: xmpp_stream.php:609 xmpp_stream.php:623 xmpp_stream.php:733
+#: xmpp_stream.php:744 xmpp_stream.php:759 xmpp_stream.php:807
+#: xmpp_client.php:81 xmpp_component.php:81
+msgid "Authentication failure: "
+msgstr ""
+
+#: xmpp_stream.php:591 xmpp_stream.php:768
+msgid "Authentication failure: wrong username or password."
+msgstr ""
+
+#: xmpp_stream.php:638
+msgid "Stream initiate failure after TLS successful: "
+msgstr ""
+
+#: xmpp_stream.php:664 xmpp_stream.php:783
+msgid "No compatible authentication mechanism."
+msgstr ""
+
+#: xmpp_stream.php:734
+msgid "this case should never happen. Contact the developper."
+msgstr ""
+
+#: xmpp_stream.php:837
+msgid "Resource binding returned an error of type \""
+msgstr ""
+
+#: xmpp_stream.php:857
+msgid "Failure during binding."
+msgstr ""
+
+#: xmpp_stream.php:864
+msgid "Bind feature not available."
+msgstr ""
+
+#: xmpp_stream.php:896
+msgid "Session establishment returned an error of type \""
+msgstr ""
+
+#: xmpp_stream.php:931
+msgid "HTTP authentication failure: "
+msgstr ""
+
+#: xmpp_stream.php:971 xmpp_stream.php:1453
+msgid "Publication returned an error of type \""
+msgstr ""
+
+#: xmpp_stream.php:1073
+msgid "Notification failure: "
+msgstr ""
+
+#: xmpp_stream.php:1096
+msgid "Item deletion failure: "
+msgstr ""
+
+#: xmpp_stream.php:1118
+msgid "Node deletion failure: "
+msgstr ""
+
+#: xmpp_stream.php:1132 xmpp_stream.php:1191
+msgid "Empty node. No instant node supported."
+msgstr ""
+
+#: xmpp_stream.php:1174
+msgid "Leaf creation failure: "
+msgstr ""
+
+#: xmpp_stream.php:1229
+msgid "Collection node creation failure: "
+msgstr ""
+
+#: xmpp_stream.php:1262 xmpp_stream.php:1373
+msgid "Node configuration failure: "
+msgstr ""
+
+#: xmpp_stream.php:1283
+msgid "Node information discovery failure: "
+msgstr ""
+
+#: xmpp_stream.php:1327
+msgid "The request for configuration form returned an error of type \""
+msgstr ""
+
+#: xmpp_stream.php:1480
+msgid "Item deletion returned an error of type \""
+msgstr ""
+
+#: xmpp_stream.php:1515
+msgid "Node deletion returned an error of type \""
+msgstr ""
+
+#: xmpp_stream.php:1550
+msgid "Leaf node creation returned an error of type \""
+msgstr ""
+
+#: xmpp_stream.php:1585
+msgid "Collection node creation returned an error of type \""
+msgstr ""
+
+#: xmpp_stream.php:1622
+msgid "Node information discovery returned an error of type \""
+msgstr ""
+
+#: xmpp_client.php:60 xmpp_component.php:60
+msgid "Stream initiate failure: "
+msgstr ""
+
+#: xmpp_client.php:103 xmpp_component.php:103
+msgid "Authentication failure: handshake failed."
+msgstr ""
+
+#: login.php:36 admin.php:35
+msgid "Authentication Identifier"
+msgstr ""
+
+#: login.php:37 admin.php:36
+msgid "[Hide]"
+msgstr ""
+
+#: login.php:38 admin.php:37 admin.php:145
+msgid "[Display]"
+msgstr ""
+
+#: login.php:52
+msgid "Authentication Identifier (Instant Messaging log-in only)"
+msgstr ""
+
+#: login.php:74
+msgid "<strong>ERROR</strong>: The username field is empty."
+msgstr ""
+
+#: login.php:87
+msgid "<strong>ERROR</strong>: this user forbad authentication by password."
+msgstr ""
+
+#: login.php:99
+msgid "Provide a Transaction ID of your choice."
+msgstr ""
+
+#: login.php:108 login.php:116
+msgid ""
+"<strong>ERROR</strong>: invalid user. Either the user does not exist, you "
+"have not set a JID in your profile or you disabled IM login in your profile."
+msgstr ""
+
+#: login.php:140
+msgid "<strong>ERROR</strong>: connection issue occurred."
+msgstr ""
+
+#: login.php:157
+msgid "Someone (maybe you) has requested access to \"%s\" (%s).\n"
+msgstr ""
+
+#: login.php:172
+msgid "<strong>ERROR</strong>: authentication has been refused or timed-out."
+msgstr ""
+
+#: admin.php:99
+msgid "Configuration tested and saved"
+msgstr ""
+
+#: admin.php:102
+msgid "Configuration not saved. The following error occured:<br />"
+msgstr ""
+
+#: admin.php:113
+msgid "IM configuration"
+msgstr ""
+
+#: admin.php:118
+msgid "Bot Account"
+msgstr ""
+
+#: admin.php:118
+msgid "[Switch to Component]"
+msgstr ""
+
+#: admin.php:120
+msgid "Login (bare jid)"
+msgstr ""
+
+#: admin.php:136
+msgid "Password"
+msgstr ""
+
+#: admin.php:145
+msgid "Advanced Connection Parameters"
+msgstr ""
+
+#: admin.php:147
+msgid ""
+"These are advanced settings. If you don't understand them, they are probably "
+"useless and default values will be enough."
+msgstr ""
+
+#: admin.php:152
+msgid "Note that SRV Records will be used by default."
+msgstr ""
+
+#: admin.php:158
+msgid ""
+"SRV Records discovery option is not enabled because the PEAR module NET_DNS "
+"is not installed on this server."
+msgstr ""
+
+#: admin.php:164 admin.php:207
+msgid "Server"
+msgstr ""
+
+#: admin.php:173 admin.php:214
+msgid "Port"
+msgstr ""
+
+#: admin.php:186
+msgid "Component Account"
+msgstr ""
+
+#: admin.php:186
+msgid "[Switch to Bot]"
+msgstr ""
+
+#: admin.php:187
+msgid ""
+"Register as a component instead of using a bot. This requires you to run "
+"your own server and configure it. If you don't understand what is a "
+"component, this feature is probably not for you and you should come back on "
+"bot mode."
+msgstr ""
+
+#: admin.php:188
+msgid ""
+"NOTE: this is an experimental support. I suggest to use it for test, not for "
+"production."
+msgstr ""
+
+#: admin.php:190
+msgid "Component bare jid"
+msgstr ""
+
+#: admin.php:198
+msgid "Secret"
+msgstr ""
+
+#: admin.php:223
+msgid "Features"
+msgstr ""
+
+#: admin.php:226
+msgid "Disable Login via XMPP"
+msgstr ""
+
+#: admin.php:229
+msgid "Disable Commenters Authentication via XMPP"
+msgstr ""
+
+#: admin.php:237
+msgid "Update"
+msgstr ""
+
+#: admin.php:241
+msgid "Reset"
+msgstr ""
+
+#: admin.php:264
+msgid "IM authentication"
+msgstr ""
+
+#: admin.php:264
+msgid "XMPP Authentication"
+msgstr ""
+
+#: admin.php:287
+msgid "XMPP Authentication is not configured yet!"
+msgstr ""
+
+#: admin.php:287
+msgid "You must <a href=\"%1$s\">configure it</a> for it to work."
+msgstr ""
+
+#: admin.php:320
+msgid "Allow login with"
+msgstr ""
+
+#: admin.php:395
+msgid "Settings"
+msgstr ""
+
+#: comment.php:36
+msgid "JID"
+msgstr ""
+
+#: comment.php:63
+msgid "Error: please enter a valid JID. Comment:<br />"
+msgstr ""
+
+#: comment.php:85
+msgid "Error: internal system error. Please retry later. Comment:<br />"
+msgstr ""
+
+#: comment.php:100
+msgid "Someone (maybe you) is commenting on the website \"%s\" (%s)"
+msgstr ""
+
+#: comment.php:111
+msgid ""
+"<strong>Error</strong>: either the comment authentication has been refused "
+"or it timed-out.<br/>Are you sure your JID is valid? Comment:<br /><em>"
+msgstr ""
+
+#: xmpp_stanzas.php:42
+msgid "Someone (maybe you) has requested access to the following web page:\n"
+msgstr ""
+
+#: xmpp_stanzas.php:43
+msgid ""
+"\n"
+"The transaction identifier is:\n"
+"\t"
+msgstr ""
+
+#: xmpp_stanzas.php:44
+msgid ""
+"\n"
+"If you confirm you made this request, answer \"OK\". Otherwise answer \"NO\"."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "XMPP-Auth"
+msgstr ""
+
+#. #-#-#-#-#  xmpp-auth.pot (XMPP-Auth 0.3)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  xmpp-auth.pot (XMPP-Auth 0.3)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://jehan.zemarmot.net"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Authentication to the website through Instant Messaging Authorization (XMPP "
+"XEP-0070)."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Jehan Hysseo"
+msgstr ""

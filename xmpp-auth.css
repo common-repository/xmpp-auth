@@ -1,0 +1,40 @@
+fieldset.imauth-options legend
+{
+    font-family: Georgia, "Times New Roman", Times, sans-serif;
+    color: navy;
+    font-weight: bold;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+fieldset.imauth-advanced-options legend
+{
+    font-family: Georgia, "Times New Roman", Times, sans-serif;
+    color: grey;
+    font-weight: bold;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+fieldset.imauth-options
+{
+    margin-bottom: 15px;
+    padding: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+fieldset.imauth-advanced-options
+{
+    margin-bottom: 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-style: dotted;
+    border-color: black;
+}
+
+#please_disable_required_email
+{
+    color: red;
+}
